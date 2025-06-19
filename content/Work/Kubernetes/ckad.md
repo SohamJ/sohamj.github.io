@@ -786,18 +786,3 @@ resources:
 ## Section 15 - Mock Exams
 
 * Go back and validate all questions if there's enough time
-
-## Steps to Take During Exam
-
-* Connect webcam and set audio/video to webcam
-* Disconnect headphones
-* Run [Compatibility Check](https://syscheck.bridge.psiexams.com/en)
-* Close all open apps except browser
-* Check-in 30 minutes before
-* Leave phone, watch, tab outside
-* Move trash bin, amp
-* Have license handy
-* Run the PSI environment test 1 day before the exam
-* Use `Control + Shift + C/V` in the terminal for copy/paste
-* ssh into the node, set context, do the question, exit out
-
