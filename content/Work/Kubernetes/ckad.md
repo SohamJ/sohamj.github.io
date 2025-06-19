@@ -5,7 +5,7 @@ tags:
   - exam
 cards-deck: Technology::Kubernetes::Certified Kubernetes Application Developer
 title: Certified Kubernetes Application Developer
-date: 2023-06-18
+date: 2025-06-18
 description: Kubernetes CKAD exam preparation along with Kode Kloud/Udemy CKAD course notes
 aliases:
   - CKAD
