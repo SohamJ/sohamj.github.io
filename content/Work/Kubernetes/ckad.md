@@ -1,0 +1,1 @@
+/mnt/c/Users/soham/Documents/Notes/Soham/Notes/Work/Courses and Certifications/Kubernetes/Certified Kubernetes Application Developer (CKAD).md
